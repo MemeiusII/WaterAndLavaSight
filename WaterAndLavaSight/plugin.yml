@@ -1,0 +1,16 @@
+name: WaterAndLavaSight
+main: me.EthanBilbrey.WaterAndLavaSight.Main
+version: 1.0
+api-version: 1.16
+author: Ethan Bilbrey
+description: Player's target block changes to water or lava
+commands:
+   setwater:
+      usage: /<command>
+      description: sets player as the water player
+   setlava:
+      usage: /<command>
+      description: sets player as the water player
+   setoff:
+      usage: /<command>
+      description: turns plugin off
